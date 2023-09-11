@@ -1,4 +1,4 @@
-# A Comprehensive Network Study of 'A Song of Ice and Fire
+# An In-Depth Network Analysis of Character Interactions in the 'A Song of Ice and Fire' Book Series
 
 This repository contains an analysis of the "A Song of Ice and Fire" dataset, representing a fictional social network from George R. R. Martin's book series. The analysis covers various aspects of the network.
 
